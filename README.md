@@ -61,7 +61,7 @@
 
 ## 💬 Поддержка и Контакты / Support & Contacts
 
-* **Telegram-группа / TG Group:** Следите за обновлениями и делитесь фидбеком здесь: [@lisukgroup]((https://t.me/lisukgroup))
+* **Telegram-группа / TG Group:** Следите за обновлениями и делитесь фидбеком здесь: [![Группа телеграмм/Telegram](https://shields.io)](https://t.me/lisukgroup)
 * **Подкинуть USDT / Donate USDT:**
   `TCAGQy1wn4eFquoRnjzw9bjDL1LVJNLygM`
   
