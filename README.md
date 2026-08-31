@@ -62,9 +62,9 @@
 ## 💬 Поддержка и Контакты / Support & Contacts
 
 * **Telegram-группа / TG Group:** Следите за обновлениями и делитесь фидбеком здесь: [@lisukgroup]((https://t.me/lisukgroup))
-* **Подкинуть на чай / Donate USDT (TRC20):**
+* **Подкинуть USDT / Donate USDT:**
   `TCAGQy1wn4eFquoRnjzw9bjDL1LVJNLygM`
   
-  > ⚠️ **Внимание:** Отправляйте монеты только в сети **TRON (TRC20)**! Переводы из других сетей (ERC20, BEP20 и др.) не дойдут.
+  > ⚠️ **ВАЖНО: Принимаются только монеты USDT!** Отправляйте их исключительно по сети **TRON (TRC20)**. Переводы в других монетах или через другие сети (ERC20, BEP20 и т.д.) просто пропадут.
   > 
-  > ⚠️ **Warning:** Send USDT using the **TRON (TRC20)** network only! Funds sent via other networks (ERC20, BEP20, etc.) will be permanently lost.
+  > ⚠️ **IMPORTANT: Only USDT coins are accepted!** Send them strictly via the **TRON (TRC20)** network. Transfers in other coins or through other networks (ERC20, BEP20, etc.) will be permanently lost.
