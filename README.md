@@ -1,6 +1,7 @@
 # 🎵 Pulse
 
-[![License: MIT](https://shields.io)](https://opensource.org)
+[![Telegram](https://shields.io)](https://t.me/lisukgroup)
+[![License: MIT](https://shields.io)](https://opensource.org/licenses/MIT)
 
 Аудиовизуализатор и ритм-игра в одном HTML-файле. Открой в браузере — и звук превратится в завораживающий визуал. / An audio visualizer and rhythm game in a single HTML file. Open it in a browser and watch sound turn into stunning visuals.
 
@@ -19,7 +20,7 @@
 ### 🚀 Запуск
 1. Скачайте или сохраните код как файл `index.html`.
 2. Откройте его в любом браузере.
-   > 💡 **Важно:** Для захвата системного звука используйте Chrome или Edge. При выборе источника выберите вкладку «Весь экран» и обязательно поставьте галочку **«Предоставить доступ к аудио в системе»**.
+   > 💡 **Важно:** Для захвата системного звука используйте Chrome или Edge. При выборе источника перейдите на вкладку «Весь экран» и обязательно поставьте галочку **«Предоставить доступ к аудио в системе»**.
 3. Или задеплойте файл на GitHub Pages / Netlify — проект работает как обычный статический сайт.
 
 ### 🎮 Управление
@@ -55,3 +56,15 @@
 * <kbd>N</kbd> — toggle night mode
 * <kbd>P</kbd> — pause
 * <kbd>Esc</kbd> — open menu
+
+---
+
+## 💬 Поддержка и Контакты / Support & Contacts
+
+* **Telegram-группа / TG Group:** Следите за обновлениями и делитесь фидбеком здесь: [@lisukgroup]((https://t.me/lisukgroup))
+* **Подкинуть на чай / Donate USDT (TRC20):**
+  `TCAGQy1wn4eFquoRnjzw9bjDL1LVJNLygM`
+  
+  > ⚠️ **Внимание:** Отправляйте монеты только в сети **TRON (TRC20)**! Переводы из других сетей (ERC20, BEP20 и др.) не дойдут.
+  > 
+  > ⚠️ **Warning:** Send USDT using the **TRON (TRC20)** network only! Funds sent via other networks (ERC20, BEP20, etc.) will be permanently lost.
