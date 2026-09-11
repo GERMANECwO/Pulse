@@ -18,10 +18,7 @@
 * **Локализация:** RU/EN — язык определяется браузером автоматически.
 
 ### 🚀 Запуск
-1. Скачайте или сохраните код как файл `index.html`.
-2. Откройте его в любом браузере.
-   > 💡 **Важно:** Для захвата системного звука используйте Chrome или Edge. При выборе источника перейдите на вкладку «Весь экран» и обязательно поставьте галочку **«Предоставить доступ к аудио в системе»**.
-3. Или задеплойте файл на GitHub Pages / Netlify — проект работает как обычный статический сайт.
+(in progress)
 
 ### 🎮 Управление
 * <kbd>Клик</kbd> / <kbd>Пробел</kbd> — попасть в такт
@@ -44,10 +41,7 @@
 * **Localization:** RU/EN support, automatically detected via your browser language.
 
 ### 🚀 Quick Start
-1. Save the source code as an `index.html` file.
-2. Open it in your browser.
-   > 💡 **Note:** To capture system audio, use Chrome or Edge. When sharing your screen, select the "Entire Screen" tab and make sure to check the **"Share system audio"** box.
-3. Alternatively, deploy the file directly to GitHub Pages or Netlify.
+(in progress)
 
 ### 🎮 Controls
 * <kbd>Click</kbd> / <kbd>Space</kbd> — tap to the beat
