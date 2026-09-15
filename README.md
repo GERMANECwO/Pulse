@@ -43,7 +43,7 @@
 - **🐛 Баги и ошибки** — создайте [Issue на GitHub](https://github.com/germanecwo/Pulse/issues), так их удобнее трекать и чинить.
 - **💡 Идеи и предложения** — пишите в [Telegram-группу](https://t.me/lisukgroup) или мне в личку [@AlexLse](https://t.me/AlexLse).
 
-*P.S. По багам можно писать и сюда — так я, скорее всего, замечу быстрее и отвечу оперативнее.*
+*P.S. По багам можно писать и в телегу — так я, скорее всего, замечу быстрее и отвечу оперативнее.*
 
 ---
 
@@ -83,7 +83,7 @@ Found a bug? Have an idea to make Pulse better? I'd love to hear from you!
 - **🐛 Bugs & issues** — please open a [GitHub Issue](https://github.com/germanecwo/Pulse/issues) so we can track and fix them together.
 - **💡 Ideas & suggestions** — share them in the [Telegram group](https://t.me/lisukgroup) or message me directly [@AlexLse](https://t.me/AlexLse).
 
-*P.S. Feel free to report bugs here too — I'll most likely notice them faster and reply quicker.*
+*P.S. Feel free to report bugs on Telegram — I'll most likely see them sooner and reply quicker.*
 
 ---
 
